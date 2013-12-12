@@ -1,5 +1,6 @@
-application: dredit-python
-version: 2
+# application: dredit-python
+application: panodex1
+version: 3-dredit
 runtime: python
 api_version: 1
 
